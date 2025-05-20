@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algoritmo Básico Ordenamiento por Burbuja", "Algoritmo Básico Ordenamiento por Burbuja", "{F21E2451-E05B-DD96-5B78-39604C80DC89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desarrollo Web Endpoint RESTful", "Desarrollo Web Endpoint RESTful", "{10FB7646-3201-A4DD-2269-06DF6473CF7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estructura de Datos Pila (Stack)", "Estructura de Datos Pila (Stack)", "{F2EE76B4-30D5-621D-98E7-A047710A9A70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patrón de Diseño Singleton", "Patrón de Diseño Singleton", "{DEE38496-C4BF-50C3-8DD3-326403A34F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#", "Algoritmo Básico Ordenamiento por Burbuja\c#\c#.csproj", "{467F3820-0C87-690F-7541-D9E12CD26A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#", "Desarrollo Web Endpoint RESTful\c#\c#.csproj", "{CD76C2DD-7E9A-55C0-1992-B49A99F146C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#", "Estructura de Datos Pila (Stack)\c#\c#.csproj", "{867E5B96-0098-02B3-B158-392FECF331DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#", "Patrón de Diseño Singleton\c#\c#.csproj", "{BECDDA7E-87F4-4BC8-6BB6-C6BC1089C568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467F3820-0C87-690F-7541-D9E12CD26A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467F3820-0C87-690F-7541-D9E12CD26A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467F3820-0C87-690F-7541-D9E12CD26A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467F3820-0C87-690F-7541-D9E12CD26A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD76C2DD-7E9A-55C0-1992-B49A99F146C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD76C2DD-7E9A-55C0-1992-B49A99F146C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD76C2DD-7E9A-55C0-1992-B49A99F146C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD76C2DD-7E9A-55C0-1992-B49A99F146C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867E5B96-0098-02B3-B158-392FECF331DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867E5B96-0098-02B3-B158-392FECF331DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867E5B96-0098-02B3-B158-392FECF331DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867E5B96-0098-02B3-B158-392FECF331DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECDDA7E-87F4-4BC8-6BB6-C6BC1089C568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECDDA7E-87F4-4BC8-6BB6-C6BC1089C568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECDDA7E-87F4-4BC8-6BB6-C6BC1089C568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECDDA7E-87F4-4BC8-6BB6-C6BC1089C568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{467F3820-0C87-690F-7541-D9E12CD26A7B} = {F21E2451-E05B-DD96-5B78-39604C80DC89}
+		{CD76C2DD-7E9A-55C0-1992-B49A99F146C1} = {10FB7646-3201-A4DD-2269-06DF6473CF7E}
+		{867E5B96-0098-02B3-B158-392FECF331DA} = {F2EE76B4-30D5-621D-98E7-A047710A9A70}
+		{BECDDA7E-87F4-4BC8-6BB6-C6BC1089C568} = {DEE38496-C4BF-50C3-8DD3-326403A34F89}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA0C4A3-4B1C-44D9-98C5-3768E94C8979}
+	EndGlobalSection
+EndGlobal
